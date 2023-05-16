@@ -14,7 +14,7 @@ Performed EDA using matplotlib to observe patterns in data, also extracted featu
 
 ## Final Application
 
-![image](https://github.com/abhipreets2/Laptop-Price-Predictor/assets/58743505/a13a4a1a-0978-4c16-9ff4-93fcbb3b9e49)
+![image](https://github.com/abhipreets2/Laptop-Price-Predictor/assets/58743505/76739d47-8582-4704-9236-de82c1e6e2da)
 
 
 ## Acknowledgments
