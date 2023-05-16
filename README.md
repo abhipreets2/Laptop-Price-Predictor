@@ -8,7 +8,8 @@ This project is aimed at creating a regression model used to predict the price o
 
 Performed EDA using matplotlib to observe patterns in data, also extracted features from the current dataset which was helpful in improving the performance of the model.
 
-![image](https://github.com/abhipreets2/Laptop-Price-Predictor/assets/58743505/3b1b3975-d486-4168-bd43-bd759cfa8fd1)
+![image](https://github.com/abhipreets2/Laptop-Price-Predictor/assets/58743505/41bb0e1b-d439-4210-af28-d220323f02a9)
+
 
 
 ## Final Application
